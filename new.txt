@@ -1,0 +1,4 @@
+1 - full name - Головенько Дмитро Анатолійович
+2 - age - 31
+3 - number of pets - 1
+4 - future salary - from UAH 30000
